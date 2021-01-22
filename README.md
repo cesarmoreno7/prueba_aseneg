@@ -11,6 +11,6 @@ Instrucciones para instalación local del proyecto:
 9. Buscar el archivo que contiene el script de la base de datos, adjuntarlo y dar clic en el botón "Continuar"(Se encuentra en la parte inferior derecha de la pantalla).
 10. Abrir el navegador y escribir la siguiente url: http://localhost/Aseneg/CRUD/Código Fuente/peliculas/
 11. Los datos de acceso son: 
-Usuario: admin
-Password: admin
+12. Usuario: admin 
+13. Password: admin
 
