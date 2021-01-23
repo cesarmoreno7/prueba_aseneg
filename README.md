@@ -14,3 +14,6 @@ Instrucciones para instalación local del proyecto:
 12. Usuario: admin 
 13. Password: admin
 
+PD: 
+como valor agregado, adicioné otras tablas, para obtener una mejor funcionalidad; Cuando se vaya a grabar un usuario, por favor seleccionar los permisos.
+Las películas las trabajé como artículos con categorías.
